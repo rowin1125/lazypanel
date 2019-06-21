@@ -1,6 +1,7 @@
 {
   "version": 2,
   "name": "nextjs",
+  "alias": "lazypanel.nl",
   "builds": [
     {
       "src": "package.json",

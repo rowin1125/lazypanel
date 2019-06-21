@@ -1,16 +1,11 @@
 import Link from 'next/link';
 import Header from '../components/header';
+import Dashboard from '../components/Dashboard';
 
 function Index() {
   return (
     <main>
-      <Header />
-      <section>
-        <Link href="/about">
-          <a>Go to About Me</a>
-        </Link>
-        <h3>This will be a facking nice dashboard Youri</h3>
-      </section>
+      <Dashboard />
     </main>
   );
 }
