@@ -1,7 +1,13 @@
 {
+  "name": "lazypanel",
+  "version": "1.0.0",
+  "description": "Server everything in and around your house",
+  "main": "index.js",
+  "author": "Rowin Mol",
   "scripts": {
+    "deploy": "now --target production",
     "build": "next build",
-    "dev": "next",
+    "dev": "now dev",
     "now-build": "next build"
   },
   "dependencies": {
