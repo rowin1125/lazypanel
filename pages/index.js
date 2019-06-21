@@ -1,5 +1,5 @@
-import Link from "next/link";
-import Header from "../components/header";
+import Link from 'next/link';
+import Header from '../components/header';
 
 function Index() {
   return (
@@ -9,6 +9,7 @@ function Index() {
         <Link href="/about">
           <a>Go to About Me</a>
         </Link>
+        <h3>This will be a facking nice dashboard Youri</h3>
       </section>
     </main>
   );
