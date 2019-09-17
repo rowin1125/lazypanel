@@ -1,6 +1,8 @@
 # Lazypanel
 
-## Handle all devices in and around your house just at 1 place
+## 1 Central place for every device
+
+This is a very simple setup for a future idea of my. This panel will control all devices in the house. This is for the future 🥳🤓
 
 ## Setup
 
